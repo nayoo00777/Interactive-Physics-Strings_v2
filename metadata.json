@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Physics Strings",
+  "description": "A physics-based animation of hanging strings that react to mouse movement, inspired by Verlet integration.",
+  "requestFramePermissions": []
+}
